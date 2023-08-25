@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#box {
+.box {
 height: 100px;
 width: 320px;
 background-color: lightgray;
@@ -9,7 +9,7 @@ display: inline-block;
 	border-style: solid;
   border-width: 5px;
 }
-#green {
+.green {
 height: 80px;
 width: 80px;
 background-color: green;
@@ -18,7 +18,7 @@ display: inline-block;
 	margin:10px;
 }
 
-#yellow {
+.yellow {
 height: 80px;
 width: 80px;
 background-color: yellow;
@@ -27,7 +27,7 @@ display: inline-block;
 	margin:10px;
 }
 
-#red {
+.red {
 height: 80px;
 width: 80px;
 background-color: red;
